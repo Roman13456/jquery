@@ -1,0 +1,19 @@
+.lslide{
+    width: 500px!important;
+}
+.lSSlideWrapper{
+    max-width: 500px;margin: auto;
+    width: 100%;
+}
+.imageContainer{
+    width: 100%; height: 200px; position: relative;
+}
+.imageContainer img{
+    position: absolute;
+    inset: 0;
+    margin: 0 auto;
+}
+#current{
+    max-width: 480px;
+    margin: auto;
+}
